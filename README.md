@@ -1,5 +1,5 @@
 
-# Projet Informatique et Synthèse d'Images Réalistes
+# Projet d'Informatique et Synthèse d'Images Réalistes
 
 Développement d'un moteur de rendu en lancer de rayons. 
 
